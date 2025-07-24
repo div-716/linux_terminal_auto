@@ -1,4 +1,4 @@
-1.gui_programs_and_commands:
+1. gui_programs_and_commands:
 
 Description: List of 5 popular GUI programs in Linux and the terminal commands that launch them.
 
@@ -21,7 +21,7 @@ Run from Alt+F2 or CLI.
 Check installation using which or dnf list installed.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-2.change_app_icon:
+2. change_app_icon:
 
 Description: Demonstrates how to change the logo/icon of a Linux application (e.g., Terminator).
 
