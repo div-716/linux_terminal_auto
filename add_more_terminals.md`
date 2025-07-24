@@ -1,0 +1,17 @@
+**📝 Purpose**: Guide to installing more terminal interfaces.
+
+**🔤 Content Outline**:
+```markdown
+# Add More Terminal Interfaces in Linux
+
+## Recommended Terminal: Terminator
+
+### Install Steps (Manual - RHEL 9):
+```bash
+sudo dnf install git python3-pip
+git clone https://github.com/gnome-terminator/terminator.git
+cd terminator
+sudo python3 setup.py install
+
+Run:
+terminator &
