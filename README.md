@@ -1,4 +1,4 @@
-1. gui_programs_and_commands:
+1. { gui_programs_and_commands} :
 
 Description: List of 5 popular GUI programs in Linux and the terminal commands that launch them.
 
@@ -21,7 +21,7 @@ Run from Alt+F2 or CLI.
 Check installation using which or dnf list installed.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-2. change_app_icon:
+2. { change_app_icon} :
 
 Description: Demonstrates how to change the logo/icon of a Linux application (e.g., Terminator).
 
@@ -38,7 +38,7 @@ Make sure the new icon path is absolute.
 Restart GNOME shell (Alt+F2 → r) or reboot if not visible.
 ___________________________________________________________________________________________________________________________________________________
 
-3. add_more_terminals_gui:
+3. { add_more_terminals_gui } :
 
 Description: Instructions for installing new terminals (like terminator) and GUI enhancements in RHEL 9.
 
@@ -55,7 +55,7 @@ Install dependencies first: pip install configobj
 If GNOME Shell doesn’t refresh, restart system or use Alt+F2 > r
 ____________________________________________________________________________________________________________________________________________________
 
-4. send_email_whatsapp_tweet_sms/
+4. { send_email_whatsapp_tweet_sms/} :
 
 Description: Scripts to send communication messages via terminal.
 
@@ -93,7 +93,7 @@ Tips:
 
 _______________________________________________________________________________________________________________________________________________
 
-ctrl_c_ctrl_z_commands/
+{ ctrl_c_ctrl_z_commands } :
 
 Description: Investigation of interrupt signals (Ctrl+C and Ctrl+Z).
 
